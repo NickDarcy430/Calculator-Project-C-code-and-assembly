@@ -1,9 +1,3 @@
-; ****************************************************
-; EEET2256 - Laboratory 3B (2023) Template
-; Author: Dr. Glenn Matthews
-; Last Updated:  21/08/2023 11:34:04 AM
-; lab3b_template.asm
-;*****************************************************
 ; Define variables.
 .def  temp  = r16
 .def position = r20
@@ -1102,3 +1096,4 @@ NumberThree:
 	.DB 0x00, 0x00
 NumberFour:
 	.DB 0x00, 0x00
+
